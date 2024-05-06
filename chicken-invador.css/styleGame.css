@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+h1 {
+  font-size: 500px;
+  text-decoration: underline;
+}
+#board {
+  background-image: url(../pexels-francesco-ungaro-998641.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 80vh;
+}
